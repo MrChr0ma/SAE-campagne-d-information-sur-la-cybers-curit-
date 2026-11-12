@@ -23,7 +23,7 @@ export default function Home() {
     },
     {
       title: "Data Classification",
-      description: "Learn how to correctly handle Public, Private, and High Security documents.",
+      description: "Learn how to correctly handle Public, Internal, and Confidential documents.",
       icon: FileText,
       href: "/data-classification",
       color: "text-green-500",

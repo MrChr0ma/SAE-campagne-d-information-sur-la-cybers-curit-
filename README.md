@@ -70,7 +70,6 @@ All four modules work, and `npm run lint` and `npm run build` both pass. Possibl
 
 ### TODO
 - [ ] Add more emails to the phishing simulation (there are 3 for now).
-- [ ] On the home page, align the "Data Classification" card description (*Public, Private, High Security*) with the categories actually used in the quiz (*Public, Internal, Confidential*).
 - [ ] Add tests.
 
 ## Team
